@@ -1,6 +1,6 @@
 {
   "name": "@swankdev/design",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Design system for swank.dev + related sites",
   "main": "main.css",
   "author": "Brian Swank",
