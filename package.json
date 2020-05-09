@@ -1,5 +1,5 @@
 {
-  "name": "@swankdev/design",
+  "name": "@bswank/design",
   "version": "0.2.0",
   "description": "Design system for swank.dev + related sites",
   "main": "main.css",
