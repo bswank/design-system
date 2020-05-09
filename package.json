@@ -1,0 +1,11 @@
+{
+  "name": "@swankdev/design",
+  "version": "0.1.0",
+  "description": "Design system for swank.dev + related sites",
+  "main": "main.css",
+  "author": "Brian Swank",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
