@@ -142,3 +142,9 @@ input {
 input:focus {
   border: 2px solid var(--accent);
 }
+
+input[type='text'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
