@@ -5,6 +5,11 @@
   "main": "main.css",
   "author": "Brian Swank",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bswank/design-system.git"
+  },
+  "homepage": "https://github.com/bswank/design-system#readme",
   "dependencies": {
     "normalize.css": "^8.0.1"
   }
